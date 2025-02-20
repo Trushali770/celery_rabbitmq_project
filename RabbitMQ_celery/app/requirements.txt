@@ -1,0 +1,5 @@
+celery
+eventlet
+fastapi
+uvicorn
+flower
